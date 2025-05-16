@@ -1,7 +1,6 @@
 # YouTube Comments Sentiment Analysis Application
 
-This project is a Django-based web application designed to perform sentiment analysis on YouTube comments. It leverages both traditional machine learning techniques and modern natural language processing (NLP) models to analyze the sentiment expressed in comments on YouTube videos. The application provides insights into how viewers feel about a particular video over time, aiding in understanding audience engagement and reaction trends.
-
+This Django web app analyzes YouTube comments to track how viewers feel about a video. It uses both traditional machine learning and modern NLP models to show sentiment trends over time, helping understand audience reactions.
 
 ## Features
 
